@@ -1,0 +1,14 @@
+.App {
+  font-family: "Averta-Regular", Helvetica, Arial, sans-serif;
+}
+
+.main {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.favorites,.quotes {
+  flex: 50%;
+  margin: 10px;
+}
